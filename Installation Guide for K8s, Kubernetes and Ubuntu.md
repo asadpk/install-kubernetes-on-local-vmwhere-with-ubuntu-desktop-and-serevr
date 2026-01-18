@@ -3,6 +3,7 @@
 **On-Premises | Ubuntu | kubeadm | containerd**
 
 A step-by-step, production-aligned guide to set up a **2-node Kubernetes cluster** (1 Control Plane + 1 Worker) using **kubeadm** and **containerd**. This guide is **GitHub-ready**, cleanly structured, and beginner-to-intermediate friendly.
+<img width="1536" height="1024" alt="kubernets work flow diagarm" src="https://github.com/user-attachments/assets/49245906-dd57-4554-b0fb-d0f8c75acdf9" />
 
 ---
 
