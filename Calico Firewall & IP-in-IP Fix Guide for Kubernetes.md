@@ -172,7 +172,8 @@ Test pod networking:
 ```
 kubectl exec -it test -- ping <pod-ip>
 ```
-
+kubectl run test --image=busybox --restart=Never -- sleep 3600
+kubectl exec -it test -- ping 8.8.8.8
 ---
 
 ## 📘 Why This Works
